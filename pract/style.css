@@ -1,0 +1,169 @@
+img#logo {
+    position: absolute;
+    width: 94px;
+    height: auto;
+    max-height: initial;
+    z-index: 10;
+    margin-top: 3px;
+}
+
+#flotador {
+	background-color: #013b61;
+	color: white;
+}
+
+img#fondo{
+	width: 100%;
+}
+
+.demo-content{
+	background-color: #ebf4dd;
+    color: #013b61;
+    padding: 15px;
+    margin-bottom: 3px;
+    font-size: 1.8em;
+    line-height: 1.3em;
+}
+.demo-content-2{
+	background-color: #ebf4dd;
+    color: #013b61;
+    padding: 40px;
+    margin-bottom: 3px;
+    line-height: 1.3em;
+    font-weight: bold;
+}
+
+.demo-content-4 {
+    background-color: #fff;
+    color:#013b61;
+    align-content: center;
+    padding: 8px;
+    z-index: 10;
+    margin-left: 24px;
+    margin-top: 2px;
+
+
+}
+
+.demo-content-5{
+    background-color: #7ab51c;
+    color: #fff;
+    padding: 1px;
+    padding-top: 10px;
+    font-size: 13pt;
+
+    
+}
+
+.demo-content-5 > p{
+    text-align: center;
+}
+
+.demo-content-6{
+    background-color: #ebf4dd;
+    color: #013b61;
+    padding: 40px;
+    margin-bottom: 3px;
+    line-height: 1.3em;
+}
+
+.demo-content-7b{
+	display: inline-block;
+	margin-top: 20px;
+	float: left;
+
+
+}
+
+.demo-content > p{
+	text-align: center;
+}
+
+.demo-content-h3 {
+	color: #ef8900;
+    
+}
+
+div#footer{
+	background-color: #009bdb;
+}
+
+.align-horizontaly{
+
+	display: inline-block;
+}
+
+.footer-text {
+	font-size: 11px;
+	color: #fff;
+}
+
+.image-header {
+	background-image: url('img/bg-sanitas-mas-salud.jpg');
+}
+
+.box-green {
+	margin-top: 30px;
+}
+
+.box-call{
+	margin-top: 15px;
+}
+
+.buttom-1{
+    background-color: #0079c8;
+    color: #fff;
+    border-radius: 5px;
+    width: 200px;
+    padding: 4px;
+    margin: 0;
+}
+
+.buttom-2{
+    background-color: #6d6e72;
+    color: #fff;
+    border-radius: 5px;
+    width: 200px;
+    padding: 4px;
+    margin: 0;
+}
+
+.pic-header {
+	padding-left: 70px;
+	font-size: 1.2em;
+	text-align: justify;
+	font-weight: bold;
+	font-family: 'gotham-bold','Segoe UI',sans-serif;
+}
+
+.pic-header2 {
+	padding-left: 20px;
+	font-size: 1.2em;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'gotham-bold','Segoe UI',sans-serif;
+}
+
+.buttom-1{
+	width: 200px;
+}
+
+.title-text{
+	font-weight: bold;
+	font-family: arial;
+	color: #817c6e;
+	margin-bottom: 10px;
+	margin-left: 15px;
+}
+
+.desc-text{
+	font-family: arial;
+	color: #817c6e;
+	font-size: 10pt;
+	margin-left: 15px;
+}
+
+.demo-content img {
+	width: 60px;
+}
+
