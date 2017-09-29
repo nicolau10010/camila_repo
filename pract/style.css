@@ -30,13 +30,18 @@ img#fondo{
     padding: 40px;
     margin-bottom: 3px;
     line-height: 1.3em;
-    font-weight: bold;
+    
+}
+
+.text-list{
+    margin-top: -28px;
+    margin-left: -37px;
+    color: #595959;
 }
 
 .demo-content-4 {
     background-color: #fff;
     color:#013b61;
-    align-content: center;
     padding: 8px;
     z-index: 10;
     margin-left: 24px;
@@ -49,10 +54,8 @@ img#fondo{
     background-color: #7ab51c;
     color: #fff;
     padding: 1px;
-    padding-top: 10px;
     font-size: 13pt;
-
-    
+        
 }
 
 .demo-content-5 > p{
@@ -63,7 +66,7 @@ img#fondo{
     background-color: #ebf4dd;
     color: #013b61;
     padding: 40px;
-    margin-bottom: 3px;
+    margin-bottom: 2px;
     line-height: 1.3em;
 }
 
@@ -77,11 +80,21 @@ img#fondo{
 
 .demo-content > p{
 	text-align: center;
+    font-size: 1.1em;
+    font-family: 'gotham-book','Segoe UI',sans-serif;
+    font-weight: normal;
 }
 
 .demo-content-h3 {
 	color: #ef8900;
     
+}
+
+.demo-content-h4{
+    color: #ef8900;
+    margin-top: 60px;
+   font-family: sans-serif;
+
 }
 
 div#footer{
@@ -106,6 +119,18 @@ div#footer{
 	margin-top: 30px;
 }
 
+.title-box-breen{
+    font-size: 15.5px;
+
+}
+
+.medium-text{
+    margin-left: 25px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: 'gotham-bold','Segoe UI',sans-serif;
+}
+
 .box-call{
 	margin-top: 15px;
 }
@@ -114,23 +139,31 @@ div#footer{
     background-color: #0079c8;
     color: #fff;
     border-radius: 5px;
-    width: 200px;
-    padding: 4px;
-    margin: 0;
+    width: 180px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    line-height: 1.4em;
+    cursor: default;
+}
+
+.buttom-1 img {
+
 }
 
 .buttom-2{
     background-color: #6d6e72;
     color: #fff;
     border-radius: 5px;
-    width: 200px;
-    padding: 4px;
-    margin: 0;
+    width: 180px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    line-height: 1.4em;
+    cursor: default;
 }
 
 .pic-header {
 	padding-left: 70px;
-	font-size: 1.2em;
+	font-size: 1em;
 	text-align: justify;
 	font-weight: bold;
 	font-family: 'gotham-bold','Segoe UI',sans-serif;
@@ -138,7 +171,7 @@ div#footer{
 
 .pic-header2 {
 	padding-left: 20px;
-	font-size: 1.2em;
+	font-size: 1em;
 	text-align: center;
 	font-weight: bold;
 	font-family: 'gotham-bold','Segoe UI',sans-serif;
@@ -167,3 +200,152 @@ div#footer{
 	width: 60px;
 }
 
+.container-box-blue{
+    margin-top: 20px;
+    margin-left: -28px;
+}
+
+.container-box-blue .col-md-4{
+    width: 200px;
+}
+
+.container-box-blue .col-md-5{
+    margin-left: -30px;
+}
+
+.box-1{
+    position: relative;
+    display: inline-block;
+}
+
+.box-2 {
+    background-color:#009bdb;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 41px;
+}
+
+.box-3{
+    background-color: #d7edfa;
+    padding: 41px;
+    color: #817c6e;
+}
+
+.box-4{
+    background-color: #0079c8;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 41px;
+}
+
+.box-5{
+    background-color: #fff;
+    padding-left: 41px;
+    padding-top: 41px;
+    color: #817c6e;
+}
+
+.box-6{
+   background-color: #003b61; 
+   color: #fff;
+   text-transform: uppercase;
+   text-align: center;
+   padding: 38px;
+}
+
+
+.ribete-container{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.ribete {
+    border-color:#e2007a;
+    border-style: solid none;
+    border-width: 2px 0; 
+    position: relative;
+}
+
+.ribete.content{
+    display: inline-block;
+    position: relative;
+}
+
+.sello{
+    position: absolute;
+    z-index: 2;
+    margin-left: 50px;
+    margin-top: -20px;
+
+}
+
+.ribete-text{
+
+    color: #e2007a;
+    margin-left: 250px;
+    padding: 10px 0;
+    font-size: 1.2em;
+}
+
+.container-form-1{
+    background-color: #ecedef;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding: 40px 0;
+}
+
+.rell-form{
+
+}
+
+input{
+    width: 85%;
+    padding: 5px 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.text-box{
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+
+.input-name{
+    
+}
+
+.input-phone{
+    margin-top: 15px;
+}
+
+.checkbox{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    background-color: #fff;
+
+}
+
+.checkbox-box{
+    margin-top: 15px;
+    margin-left: -14px;
+}
+
+.privacy{
+    margin-top: 27px;
+    margin-left: -24px;
+}
+
+.saber{
+    color: #0079c8;
+    font-weight: bolder;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    text-align: center;
+    
+}
+
+.call-us
