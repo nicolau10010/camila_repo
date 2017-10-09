@@ -1,0 +1,419 @@
+img#logo {
+    position: absolute;
+    width: 94px;
+    height: auto;
+    max-height: initial;
+    z-index: 10;
+    margin-top: 3px;
+}
+
+#flotador {
+	background-color: #013b61;
+	color: white;
+}
+
+img#fondo{
+	width: 100%;
+}
+
+.demo-content{
+	background-color: #ebf4dd;
+    color: #013b61;
+    padding: 15px;
+    margin-bottom: 3px;
+    font-size: 1.8em;
+    line-height: 1.3em;
+}
+.demo-content-2{
+	background-color: #ebf4dd;
+    color: #013b61;
+    padding: 40px;
+    margin-bottom: 3px;
+    line-height: 1.3em;
+    
+}
+
+.text-list{
+    margin-top: -28px;
+    margin-left: -37px;
+    color: #595959;
+}
+
+.demo-content-4 {
+    background-color: #fff;
+    color:#013b61;
+    padding: 8px;
+    z-index: 10;
+    margin-left: 24px;
+    margin-top: 2px;
+
+
+}
+
+.demo-content-5{
+    background-color: #7ab51c;
+    color: #fff;
+    padding: 1px;
+    font-size: 13pt;
+        
+}
+
+.demo-content-5 > p{
+    text-align: center;
+}
+
+.demo-content-6{
+    background-color: #ebf4dd;
+    color: #013b61;
+    padding: 40px;
+    margin-bottom: 2px;
+    line-height: 1.3em;
+}
+
+.demo-content-7b{
+	display: inline-block;
+	margin-top: 20px;
+	float: left;
+
+
+}
+
+.demo-content > p{
+	text-align: center;
+    font-size: 1.1em;
+    font-family: 'gotham-book','Segoe UI',sans-serif;
+    font-weight: normal;
+}
+
+.demo-content-h3 {
+	color: #ef8900;
+    
+}
+
+.demo-content-h4{
+    color: #ef8900;
+    margin-top: 60px;
+   font-family: sans-serif;
+
+}
+
+div#footer{
+	background-color: #009bdb;
+}
+
+.align-horizontaly{
+
+	display: inline-block;
+}
+
+.footer-text {
+	font-size: 11px;
+	color: #fff;
+}
+
+.image-header {
+	background-image: url('img/bg-sanitas-mas-salud.jpg');
+}
+
+.box-green {
+	margin-top: 30px;
+}
+
+.title-box-breen{
+    font-size: 15.5px;
+
+}
+
+.medium-text{
+    margin-left: 25px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: 'gotham-bold','Segoe UI',sans-serif;
+}
+
+.box-call{
+	margin-top: 15px;
+}
+
+.buttom-1{
+    background-color: #0079c8;
+    color: #fff;
+    border-radius: 5px;
+    width: 180px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    line-height: 1.4em;
+    cursor: default;
+}
+
+.buttom-1 img {
+
+}
+
+.buttom-2{
+    background-color: #6d6e72;
+    color: #fff;
+    border-radius: 5px;
+    width: 180px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    line-height: 1.4em;
+    cursor: default;
+}
+
+.pic-header {
+	padding-left: 70px;
+	font-size: 1em;
+	text-align: justify;
+	font-weight: bold;
+	font-family: 'gotham-bold','Segoe UI',sans-serif;
+}
+
+.pic-header2 {
+	padding-left: 20px;
+	font-size: 1em;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'gotham-bold','Segoe UI',sans-serif;
+}
+
+.buttom-1{
+	width: 200px;
+}
+
+.title-text{
+	font-weight: bold;
+	font-family: arial;
+	color: #817c6e;
+	margin-bottom: 10px;
+	margin-left: 15px;
+}
+
+.desc-text{
+	font-family: arial;
+	color: #817c6e;
+	font-size: 10pt;
+	margin-left: 15px;
+}
+
+.demo-content img {
+	width: 60px;
+}
+
+.container-box-blue{
+    margin-top: 20px;
+    margin-left: -28px;
+}
+
+.container-box-blue .col-md-4{
+    width: 200px;
+}
+
+.container-box-blue .col-md-5{
+    margin-left: -30px;
+}
+
+.box-1{
+    position: relative;
+    display: inline-block;
+}
+
+.box-2 {
+    background-color:#009bdb;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 41px;
+}
+
+.box-3{
+    background-color: #d7edfa;
+    padding: 41px;
+    color: #817c6e;
+}
+
+.box-4{
+    background-color: #0079c8;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 41px;
+}
+
+.box-5{
+    background-color: #fff;
+    padding-left: 41px;
+    padding-top: 41px;
+    color: #817c6e;
+}
+
+.box-6{
+   background-color: #003b61; 
+   color: #fff;
+   text-transform: uppercase;
+   text-align: center;
+   padding: 38px;
+}
+
+
+.ribete-container{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.ribete {
+    border-color:#e2007a;
+    border-style: solid none;
+    border-width: 2px 0; 
+    position: relative;
+}
+
+.ribete.content{
+    display: inline-block;
+    position: relative;
+}
+
+.sello{
+    position: absolute;
+    z-index: 2;
+    margin-left: 50px;
+    margin-top: -20px;
+
+}
+
+.ribete-text{
+
+    color: #e2007a;
+    margin-left: 250px;
+    padding: 10px 0;
+    font-size: 1.2em;
+}
+
+.container-form-1{
+    background-color: #ecedef;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding: 40px 0;
+}
+
+.rell-form{
+
+}
+
+input{
+    width: 95%;
+    padding: 5px 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.text-box{
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+
+.input-name{
+    
+}
+
+.input-phone{
+    margin-top: 15px;
+}
+
+.checkbox{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    background-color: #fff;
+
+}
+
+.checkbox-box{
+    margin-top: 15px;
+    margin-left: -14px;
+}
+
+.privacy{
+    margin-top: 27px;
+    margin-left: -24px;
+}
+
+.saber{
+    color: #0079c8;
+    font-weight: bolder;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    text-align: center;
+    
+}
+
+.call-us{
+    text-align: center;
+    color: #817c6e;
+    text-transform: uppercase;
+    padding-top: 4px;
+    font-weight: bold;
+}
+
+.datos{
+    text-align: center;
+    color: #817c6e;
+    padding-top: 45px;
+    font-weight: bold;
+}
+
+.img-contact{
+    padding-top: -9px;
+    padding-left: 50px;
+}
+
+.contact-phone{
+    color: #0079c8;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-top: 8px;
+    text-align: center;
+    
+}
+
+.compromiso{
+    padding-top: 7px;
+    color: #0079c8;
+    font-weight: bolder;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.buttom{
+    width: 100%;
+    background-color: #ef8900;
+    color: #fff;
+    border: 1px solid #fe5000;
+    box-sizing: border-box;
+    height: 31px;
+    letter-spacing: 1px;
+}
+
+.buttom:hover {
+  border: solid #fe5000;
+  cursor: pointer;
+  background-color: #fe5000;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.horario{
+    text-align: center;
+    padding-top: 15px;
+    color: #817c6e;
+    word-spacing: 1px;
+}
+
+.protect{
+    text-align: center;
+    padding-top: 15px;
+    color: #817c6e;
+    word-spacing: 1px;
+}
